@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Normal",
+    "main": "net.runelite.client.RuneLite",
+    "bootstrap": "https://assets.illerai.com/LauncherTest/bootstrap.json",
+    "bootstrapsig": "https://assets.illerai.com/LauncherTest/bootstrap.json.sha256",
+    "tooltip": "The Latest most stable Client"
+  }
+]
