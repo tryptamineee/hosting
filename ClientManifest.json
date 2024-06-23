@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Normal",
+    "main": "net.runelite.client.RuneLite",
+    "bootstrap": "https://raw.githubusercontent.com/tryptamineee/hosting/main/client/normal/bootstrap.json",
+    "bootstrapsig": "https://raw.githubusercontent.com/tryptamineee/hosting/main/client/normal/bootstrap.json.sha256",
+    "tooltip": "The Latest most stable Client"
+  }
+]
