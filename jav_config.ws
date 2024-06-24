@@ -1,6 +1,6 @@
 title=Drako beta
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=135.148.27.238
+codebase=http://135.148.27.238
 cachedir=Drako
 storebase=0
 initial_jar=gamepack_6977315.jar
